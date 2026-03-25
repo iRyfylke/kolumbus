@@ -377061,5 +377061,13 @@
       ]
     },
     "speed_limit": 30
+  },
+  {
+    "id": "1026941898",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": []
+    },
+    "speed_limit": 30
   }
 ]
